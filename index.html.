@@ -21,8 +21,11 @@
         <section class="escola">
             <div class=”escola-conteudo”>
                 <h2 class="escola-título"> SOBRE A ESCOLA </h2>
-                <p class="escola-texto-um"> A Escola Estadual Vinivius de Moraes de tornou Escolá Cívico Militar.....</p>
-                <p class="escola-texto-dois"> A turma mais chata de todas é o 2º A </P>
+                <p class="escola-texto-um"> O colégio Estadual Vinívius de Moraes foi fundado em 1997, tendo 10 salas de aula contando biblioteca e laboraorio de informatica.
+                Se tornando Civico Militar foi no ano de 2020, este modelo veio para melhorar o abito escolar.
+                Contando com um diretor cívico militar, e um monitor militar. 
+                Possui turno matutino e vespertino, com turmas até o ensino médio.</p>
+                <p class="escola-texto-dois"> Atualmente estudo na turma 2°A</P>
                 <h1>ser uma imagem aqui .  <img class=”escola-imagem”src= ></h1>
             </div>
         </section>

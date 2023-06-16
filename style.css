@@ -1,3 +1,17 @@
+<<<<<<< HEAD
+body{
+    background-color: white;
+    color: rgb(2, 122, 8) (250, 240, 240);
+    display: flex;
+    }
+    .cabecalho-imagem{
+    width:20%;
+    }
+    .cabecalho-lista-imagem{
+    display: inline-block;
+    margin: 0 16px;
+    }
+=======
 body{
 background-color: white;
 color: blue (250, 240, 240);
@@ -10,3 +24,5 @@ width:20%;
 display: inline-block;
 margin: 0 16px;
 }
+
+>>>>>>> b6ec7d85d153baee5750fef7c42b5d3a36a712b6

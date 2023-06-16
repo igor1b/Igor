@@ -1,2 +1,12 @@
-header 
-{ background-color: #000000; color: white }
+body{
+background-color: white;
+color: blue (250, 240, 240);
+display: flex;
+}
+.cabecalho-imagem{
+width:20%;
+}
+.cabecalho-lista-imagem{
+display: inline-block;
+margin: 0 16px;
+}
